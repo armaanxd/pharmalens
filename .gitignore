@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+bioai/
+
+# Data files (too large for git)
+data/test_proteins/*.pdb
+outputs/*.json
+outputs/*.txt
+*.pdbqt
+
+# Temporary files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Model weights
+models/*.pt
+models/*.pth
+models/*.h5
+
+# Keep directory structure
+!data/test_proteins/.gitkeep
+!outputs/.gitkeep
+!models/.gitkeep
