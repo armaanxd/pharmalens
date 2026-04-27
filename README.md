@@ -195,7 +195,7 @@ results = run_drug_discovery_pipeline(
 
 ---
 
-## 📅 Development Roadmap
+## Development Roadmap
 
 ### ✅ Week 1: Core Pipeline (Complete)
 - [x] Protein processing
@@ -209,7 +209,7 @@ results = run_drug_discovery_pipeline(
 - [x] Benchmarking system
 - [ ] Literature search (PubMed + BioBERT) - Optional
 
-### 🔄 Week 3: UI & Deployment (In Progress)
+### 🔄Week 3: UI & Deployment (In Progress)
 - [ ] Gradio interface with 3D viewers
 - [ ] Custom CSS (dark mode, animations)
 - [ ] Deploy to HuggingFace Spaces
@@ -217,7 +217,7 @@ results = run_drug_discovery_pipeline(
 
 ---
 
-## 🧬 Test Proteins
+##  Test Proteins
 
 | PDB ID | Protein | Use Case |
 |--------|---------|----------|
@@ -227,7 +227,7 @@ results = run_drug_discovery_pipeline(
 
 ---
 
-## 📈 Performance Metrics
+##  Performance Metrics
 
 - **Docking Speed**: <30 sec/molecule
 - **Binding Site Accuracy**: >80% vs literature
@@ -236,19 +236,19 @@ results = run_drug_discovery_pipeline(
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This is a portfolio project showcasing Bio×AI skills. Feedback and suggestions welcome via Issues!
 
 ---
 
-## 📄 License
+##  License
 
 MIT License - See LICENSE file
 
 ---
 
-## 🔗 Links
+##  Links
 
 - **Portfolio**: [github.com/armaanxd](https://github.com/armaanxd)
 - **Previous Projects**: 
@@ -259,7 +259,7 @@ MIT License - See LICENSE file
 
 ---
 
-## 📝 Citation
+## Citation
 
 If you use PharmaLens in your research, please cite:
 
@@ -274,7 +274,7 @@ If you use PharmaLens in your research, please cite:
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **AutoDock Vina** for molecular docking
 - **RDKit** for cheminformatics
